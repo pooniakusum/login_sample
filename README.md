@@ -1,4 +1,17 @@
 # login_sample
-<div id="header" align="center">
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=2EHSfNPR&id=0A67450192659AC71D4E7CC44CF7C2A89A1A032C&thid=OIP.2EHSfNPRQvFaLFzGPFCsKwHaFj&mediaurl=https%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2018%2f04%2flogin-animated-gif-13.gif&exph=600&expw=800&q=gif+related+to+login&simid=608033697362220236&FORM=IRPRST&ck=D4B6CED3C9841DA7067BB75B21095CB5&selectedIndex=1" width="100"/>
-</div>
+
+This repository has a few templates for README files and code for signup page.
+
+## Requirements:
+
+Frontend: React
+Backend: java
+Database: 
+
+## login_sample contain
+
+firstly it contain signup page to register itself
+Then login page to login you credentials.
+Then we reach our home page through which we can navigate to different parts like setting.
+We can also reset our password
+After that we can also logout from website.
