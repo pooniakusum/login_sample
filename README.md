@@ -5,7 +5,9 @@ This repository has a few templates for README files and code for signup page.
 ## Requirements:
 
 -Frontend: React
+
 -Backend: java
+
 -Database: 
 
 ## login_sample contain
