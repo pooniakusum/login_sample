@@ -4,11 +4,11 @@ This repository has a few templates for README files and code for signup page.
 
 ## Requirements:
 
--Frontend: React
+-Frontend: React and nodejs
 
--Backend: java
+-Backend: java, springboot
 
--Database: 
+-Database: H2
 
 ## login_sample contain
 
@@ -24,4 +24,4 @@ This repository has a few templates for README files and code for signup page.
 
 ## images of woring site:
 
-<img width="960" alt="2022-09-29" src="https://user-images.githubusercontent.com/94133108/196810480-95e5e268-785c-4122-ad4e-0d368880a5cb.png">
+
